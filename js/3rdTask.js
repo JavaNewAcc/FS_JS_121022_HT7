@@ -49,5 +49,4 @@ window.onload = () => {
         const { year } = filmYearElem;
         console.log(year);
     }
-
 }
